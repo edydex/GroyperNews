@@ -220,13 +220,13 @@ img {
 	
 @media (max-width: 760px) {
   #content {
-    width: 100%;  /* Adjust to full width for smaller screens */
+    /*width: 100%;  /* Adjust to full width for smaller screens */
     font-size: 24px;  /* Add 'px' for proper font size units */
   }
-  #wrapper {
-    background: none;  /* Removes the background */
-	 background-color: white;
-  }
+  /*#wrapper {
+    background: none;  
+	 background-color: white; 
+  } */
 }
 
 /** END content **/
